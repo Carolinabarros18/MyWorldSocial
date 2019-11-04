@@ -1,2 +1,2 @@
-# projeto01
-projeto
+# MyWorldSocial
+Primeira e segunda parte do projeto de telas 
